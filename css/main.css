@@ -1,0 +1,50 @@
+#main	{
+	z-index: 100;
+	width: 600px;
+	background: url(../images/main-back.png) repeat;
+	background: rgba(0,0,0,.7);
+	padding: 20px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-right: 200px;
+	margin-left: auto;
+}
+
+#main a	{
+	text-decoration: none;
+	color: #fff;
+}
+
+.post	{
+	overflow: hidden;
+}
+
+div.postThumbnails	{
+	position: absolute;
+	top: 20px;
+	right: 20px;
+}
+
+div.postThumbnails a img	{
+	border: solid 2px #000;
+}
+
+div.postThumbnails a.active	{
+	opacity: 0.5;
+	-moz-opacity: 0.5;
+	-khtml-opacity: 0.5;
+	-webkit-opacity: 0.5;
+	filter: alpha(opacity=50);
+	cursor: default;
+}
+
+.postContent	{
+	font-size: 9pt;
+}
+
+.imageThumbnail	{
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border: solid 5px #000;
+}

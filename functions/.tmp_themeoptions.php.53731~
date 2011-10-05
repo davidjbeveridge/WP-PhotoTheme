@@ -1,0 +1,8 @@
+<?php
+$themename = "Photo Theme";
+$shortname = "phototheme";
+$options = array(
+	//array('name' => '','desc' => '','id' => '','std' => '','type' => '')
+	array('name' => 'PhotoTheme Options','type' => 'title')
+);
+

@@ -1,0 +1,12 @@
+#Fri Apr 30 00:15:11 MDT 2010
+Create\ Empty\ Directories=true
+Password=sadiedog
+Recurse\ Subdirectories=true
+Save\ Password=true
+Site\ Root=/var/www/test/wp-content/themes/PhotoTheme
+Username=dave
+eclipse.preferences.version=1
+port=22
+protocol=0
+server=nerdmedia.net
+timeout=30
